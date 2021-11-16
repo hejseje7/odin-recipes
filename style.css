@@ -1,0 +1,21 @@
+.title {
+    text-align: center;
+    background-color: rosybrown;
+}
+.main-img {
+    height: auto;
+    width: 750px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.description,.link {
+    background-color: #f5d4ef;
+
+}
+.ingredients {
+    background-color: #c5c4c4;
+}
+.steps {
+    background-color: rgb(140, 206, 140);
+}
